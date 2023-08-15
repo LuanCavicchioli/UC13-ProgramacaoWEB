@@ -35,5 +35,6 @@ echo "<hr>";
 
 echo empty($nomeCompleto)?'True':'False';
 //empty serve para verificar se nãos foi preenchido ou esta vazio
+echo "<hr>";
 
 ?>

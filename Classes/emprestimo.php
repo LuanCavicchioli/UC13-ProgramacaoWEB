@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 </head>
 <body>
     <h1>Formulário De Entrada Emprestimo</h1>
-    <form action="" method="post">
+    <form action="container" method="post">
         <label for="aluno">Nome Do Aluno:</label>
         <input type="text" id="aluno" name="aluno"><br><br>
         <label for="livro">Nome Do Livro:</label>

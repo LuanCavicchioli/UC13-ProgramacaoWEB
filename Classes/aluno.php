@@ -5,6 +5,7 @@ class Aluno
     protected $cpf;
     protected $senha;
     public $telefone;
+    public $perfil;
 
     public function cpfPublic()
     {
